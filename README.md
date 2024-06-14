@@ -4,5 +4,5 @@ Simple sand falling simulation made with C# and Windows Presentation Foundation 
 
 ### UI
 - Clear: Clears the canvas.
-- Snap: Saves a bitmap of the canvas.
+- Snap: Saves a bitmap file of the canvas.
 - Slider: Brush size.
